@@ -1,0 +1,52 @@
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.exe
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.deps.json
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.json
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.dev.json
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.dll
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.pdb
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csprojAssemblyReference.cache
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfoInputs.cache
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfo.cs
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csproj.CoreCompileInputs.cache
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.dll
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.pdb
+C:\Users\Luxus-Time_08\Desktop\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.genruntimeconfig.cache
+D:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.exe
+D:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.deps.json
+D:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.json
+D:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.dev.json
+D:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.dll
+D:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.pdb
+D:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csprojAssemblyReference.cache
+D:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfoInputs.cache
+D:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfo.cs
+D:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csproj.CoreCompileInputs.cache
+D:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.dll
+D:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.pdb
+D:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.genruntimeconfig.cache
+E:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.exe
+E:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.deps.json
+E:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.json
+E:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.dev.json
+E:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.dll
+E:\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.pdb
+E:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csprojAssemblyReference.cache
+E:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csproj.CoreCompileInputs.cache
+E:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfoInputs.cache
+E:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfo.cs
+E:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.dll
+E:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.pdb
+E:\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.genruntimeconfig.cache
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.exe
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.deps.json
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.json
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.runtimeconfig.dev.json
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.dll
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\bin\Debug\netcoreapp3.1\Anagramme.pdb
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csprojAssemblyReference.cache
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.csproj.CoreCompileInputs.cache
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfoInputs.cache
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.AssemblyInfo.cs
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.dll
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.pdb
+C:\Users\Nicolai\Desktop\ \Privat\C#\Privat\Anagramme\Anagramme\obj\Debug\netcoreapp3.1\Anagramme.genruntimeconfig.cache
